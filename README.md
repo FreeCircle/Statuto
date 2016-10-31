@@ -1,6 +1,3 @@
-# Statuto del GLugSicilia
-(liberamente ispirato da quello di "Officina Informatica Libera")
-
 ## Associazione Culturale “GLugSicilia”
 Bozza redatta da Enrico "ErolM^A" Trombetta.
 
@@ -127,4 +124,4 @@ Nel processo semplificato, i moderatori si possono sostituire al Colleggio dei P
 - la gestione dei rendiconti dell'Associazione;
 - l'attuazione, mediante qualunque forma consentita, degli scopi indicati nell'Art 4.
 
-21. Il Consiglio può essere composto da: **TODO**
+21. Il Consiglio è composto da: **TODO**

@@ -90,7 +90,9 @@ Bozza redatta da Enrico "ErolM^A" Trombetta.
 13. Il Colleggio dei Probiviri esercita funzioni di amministrazione della giustizia e della risoluzione delle controversie interne, è garante del rispetto dello Statuto e la sua indipendenza dagli altri organi è assoluta. Esso è composto da 5 individui, scelti tra e da:
   - soci ordinari che hanno accumulato almeno due anni di permanenza
   - soci statuari
+  
   Le fonti del diritto sono quelle indicate nell'Art 3 Comma 1.
+  
   Altri vincoli di eleggibilità:
   - i candidati non devono mai essere stati espulsi temporaneamente dall'Associazione
   - i candidati devono essere partecipanti dell'Associazione da almeno 2 anni.
@@ -109,14 +111,16 @@ Bozza redatta da Enrico "ErolM^A" Trombetta.
   - minore sanzione imputabile per l'illecito commesso.
 
 16. Sono previsti due tipi di processo:
-- processo ordinario;
-- processo semplificato;
+  - processo ordinario;
+  - processo semplificato;
+  
   Sono oggetto di processo semplificato soltanto i casi di vandalismo nei confronti dell'Associazione e della comunità (i "troll" e gli "spam").
+  
   Sono oggetto di processo ordinario tutti gli altri casi.
   Nel processo semplificato, i moderatori si possono sostituire al Colleggio dei Probiviri ed è ammessa la contumacia.
 
-17. Ogni sentenza va firmata dal Presidente dell'Associazione. Egli/Ella può reinviare la decisione per un periodo massimo di una settimana e solo una volta.
-18. I membri del Colleggio devono essere estranei a ogni controversia. Nel caso vi fossero dei membri direttamente coinvolti a livello individuale la comunità deve eleggere, entro 24 ore, dei membri temporanei il cui mandato dura fino alla fine del dibattimento.
+17. Ogni sentenza va firmata dal Presidente dell'Associazione. Questi può reinviare la decisione per un periodo massimo di una settimana e solo una volta.
+18. I membri del Colleggio devono essere estranei a ogni controversia. In caso di membri direttamente coinvolti a livello individuale la comunità deve eleggere, entro 24 ore, dei membri temporanei il cui mandato dura fino alla fine del dibattimento.
 19. Le decisioni del Colleggio, una volta ratificate, non sono ritrattabili.
 ### ORGANIZZAZIONE ESECUTIVA
 

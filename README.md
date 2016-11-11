@@ -45,12 +45,14 @@ Bozza redatta da Enrico "ErolM^A" Trombetta.
   - Soci fondatori: quelli che hanno partecipato alla costituzione dell’Associazione, o soci ordinari (vedi dopo) che hanno trascorso almeno cinque anni e che hanno richiesto la promozione di statuto.
   - Soci ordinari: quelli che chiederanno di aderire all’Associazione, presentando domanda di ammissione secondo le norme previste dall’art.6 del presente Statuto.
   - Soci sostenitori: le persone fisiche e giuridiche, gli enti pubblici e privati, interessati al perseguimento degli obiettivi ed allo sviluppo dell’Associazione. I soci sostenitori persone giuridiche e enti partecipano alla vita associativa tramite il legale rappresentante o altra persona specificamente delegata.
+  
   È esclusa espressamente la temporaneità della partecipazione alla vita associativa.
   I Soci ordinari dispogono degli stessi diritti dei soci sostenitori e possono pure:
   - richiedere modifiche dello Statuto, allegando alla richiesta una serie di motivazioni e delle proposte di modifica secondo le modalità concesse dal Consiglio dei Probiviri (vedi Art 20);
   - esprimere votazioni su qualsiasi argomento, seguendo il buon costume;
   - partecipare attivamente a tutte le piattaforme software i contribuzione indicate nel sito ufficiale;
   - mettere in discussione l'operato di un qualsiasi membro di qualsiasi Consiglio.
+  
   I soci fondatori, oltre ad avere le stesse facoltà dei soci ordinari, possono:
   - stendere riforme statuarie (secondo quanto previsto nell'Art 24);
   - modificare la sede legale e adibire locali alle attività dell'Associazione.

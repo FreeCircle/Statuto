@@ -3,7 +3,7 @@ Bozza preparatoria di ErolM^A
 
 ## Scopo delle chat
 1. Valgono tutte le regole e i principi elencati nello Statuto.
-2. Può partecipare alla chat La partecipazione alle chat di qualsiasi genere non è obbligatoria per i soci, essa rimane uno strumento di diffusione di notizie, di discussione e di assistenza libera.
+2. La partecipazione alle chat di qualsiasi genere non è obbligatoria per i soci, essa rimane uno strumento di diffusione di notizie, di discussione e di assistenza libera.
 3. L'Associazione si riserva il diritto di indicare gli strumenti di comunicazione ufficiali. Tutti quelli non espressamente riportati sul portale Internet di quest'ultima non vanno considerati ufficiali e dovrebbero essere evitati.
 
   I criteri con qui l'Associazione adotta un software di messagistica istantantea sono i seguenti:

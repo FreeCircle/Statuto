@@ -13,10 +13,10 @@ Bozza redatta da Enrico "ErolM^A" Trombetta.
 
 4. L'associazione svolge attività per la promozione e la diffusione del software libero, per la difesa della libertà di ricerca scientifica ed informatica, per la condivisione delle conoscenze e dei saperi.
 
-  L’Associazione si propone la riduzione del digital divide, favorire quindi l'accesso e l'utilizzo consapevole delle nuove tecnologie da parte di tutti. In questo senso l'Associazione si impegna localmente a divulgare l'uso e l'utilizzo consapevole delle nuove tecnologie nelle fasce di popolazione più svantaggiate o lontane dal mondo dell'informatica; allo stesso tempo l'Associazione intende promuovere e sviluppare l'uso del pc nei paesi poveri del Sud del Mondo attraverso interventi di cooperazione internazionale.
+  L’Associazione si propone la riduzione del digital divide, favorire quindi l'accesso e l'utilizzo consapevole delle nuove tecnologie da parte di tutti. In questo senso l'Associazione si impegna localmente a divulgare l'uso e l'utilizzo consapevole delle nuove tecnologie nelle fasce di popolazione più svantaggiate o lontane dal mondo dell'informatica; allo stesso tempo l'Associazione intende promuovere e sviluppare l'uso del PC nei paesi poveri del Sud del Mondo attraverso interventi di cooperazione internazionale.
   Nello specifico gli obiettivi dell’Associazione sono:
   - favorire la diffusione e l'utilizzo consapevole degli strumenti informatici mediante una corretta alfabetizzazione informatica;
-  - lottare contro l'adozione di standard prorietari soprattutto nel trattamento delle informazioni da parte delle pubbliche amministrazioni, del sstema scolastico e degli utenti privati 
+  - lottare contro l'adozione di standard proprietari soprattutto nel trattamento delle informazioni da parte delle pubbliche amministrazioni, del sistema scolastico e degli utenti privati 
   - lottare contro ogni tentativo di monopolio pubblico e privato nella gestione e nella distribuzione delle informazioni, consci che il Software Libero trae la sua prima ragione di esistere proprio dalla libertà di accesso alle fonti informative;
   - favorire l'adozione di licenze di tipo libero anche nella pubblicazione di documentazione tecnica, nei testi scolastici, e in tutta la produzione culturale e artistica in genere;
   - permettere l'utilizzo di hardware in disuso o disponibile a basso costo attraverso l'utilizzo di Software Libero, per aiutare chi non può permettersi l'acquisto delle tecnologie più recenti;
@@ -32,7 +32,7 @@ Bozza redatta da Enrico "ErolM^A" Trombetta.
   - organizzare seminari e corsi di qualificazione, formazione e specializzazione, anche in collaborazione con altri enti, istituzioni e altri organismi non profit presenti sul territorio locale e nazionale nonché con le istituzioni scolastiche;
   - sviluppare un centro di documentazione tematico nonché altre iniziative volte a perseguire gli scopi sociali;
   - svolgere attività di assistenza, manutenzione di hardware e software;
-  - assemblare pc e promuovere il riuso e un corretto smaltimento di hardware e di tutti i componenti del pc.
+  - assemblare PC e promuovere il riuso e un corretto smaltimento di hardware e di tutti i componenti del PC.
   
   L’Associazione, inoltre, potrà svolgere qualsiasi attività economica comunque necessaria ed utile al reperimento dei fondi ed allo sviluppo della medesima.
   
@@ -47,7 +47,7 @@ Bozza redatta da Enrico "ErolM^A" Trombetta.
   - Soci sostenitori: le persone fisiche e giuridiche, gli enti pubblici e privati, interessati al perseguimento degli obiettivi ed allo sviluppo dell’Associazione. I soci sostenitori devono presentare domanda di ammissione secondo le norme previste dall’art.7 del presente Statuto.
   
   È esclusa espressamente la temporaneità della partecipazione alla vita associativa.
-  I Soci ordinari dispogono degli stessi diritti dei soci sostenitori e possono pure:
+  I Soci ordinari dispongono degli stessi diritti dei soci sostenitori e possono pure:
   - richiedere modifiche dello Statuto, allegando alla richiesta una serie di motivazioni e delle proposte di modifica secondo le modalità concesse dal Consiglio dei Probiviri (vedi Art 20);
   - esprimere votazioni su qualsiasi argomento, seguendo la un buon comportamento;
   - partecipare attivamente a tutte le piattaforme software di contribuzione indicate nel sito ufficiale;
@@ -80,14 +80,14 @@ Bozza redatta da Enrico "ErolM^A" Trombetta.
 ## ORGANI DELL'ASSOCIAZIONE
 
 12. Gli organi dell'Associazione sono:
-  - Colleggio dei Probiviri
+  - Collegio dei Probiviri
   - Consiglio Direttivo
   - Presidente
 
- Non è concesso a un membro del Colleggio dei Probiviri di fare parte del Consiglio Direttivo, e viceversa.
+ Non è concesso a un membro del Collegio dei Probiviri di fare parte del Consiglio Direttivo, e viceversa.
 ### ORGANIZZAZIONE DELLA GIUSTIZIA
 
-13. Il Colleggio dei Probiviri esercita funzioni di amministrazione della giustizia e della risoluzione delle controversie interne, è garante del rispetto dello Statuto e la sua indipendenza dagli altri organi è assoluta. Esso è composto da 5 individui, scelti tra e da:
+13. Il Collegio dei Probiviri esercita funzioni di amministrazione della giustizia e della risoluzione delle controversie interne, è garante del rispetto dello Statuto e la sua indipendenza dagli altri organi è assoluta. Esso è composto da 5 individui, scelti tra e da:
   - soci ordinari che hanno accumulato almeno due anni di permanenza
   - soci fondatori
   
@@ -97,7 +97,7 @@ Bozza redatta da Enrico "ErolM^A" Trombetta.
   - i candidati non devono mai essere stati espulsi temporaneamente dall'Associazione **dipende da ragioni e tempo dell'espulsione**
   - i candidati devono essere partecipanti dell'Associazione da almeno 2 anni.
 
-14. Il mandato dei membri del Colleggio è di 1 anno. Una settimana prima della fine del loro mandato dovranno essersi concluse le elezioni dei nuovi membri.
+14. Il mandato dei membri del Collegio è di 1 anno. Una settimana prima della fine del loro mandato dovranno essersi concluse le elezioni dei nuovi membri.
 
 15. Ogni socio ha diritto:
   - alla parità delle parti;
@@ -106,7 +106,7 @@ Bozza redatta da Enrico "ErolM^A" Trombetta.
   - alla difesa;
   - a non ricevere punizioni preventive, ma soltanto a sospensioni cautelari.
   
-  Ogni socio dichiarato reo dal Colleggio dei Probiviri gode dei seguenti diritti:
+  Ogni socio dichiarato reo dal Collegio dei Probiviri gode dei seguenti diritti:
   - rispetto d'immagine;
 
 16. Sono previsti due tipi di processo:
@@ -116,11 +116,11 @@ Bozza redatta da Enrico "ErolM^A" Trombetta.
   Sono oggetto di processo semplificato soltanto i casi di vandalismo nei confronti dell'Associazione e della comunità (i "troll" e gli "spam").
   
   Sono oggetto di processo ordinario tutti gli altri casi.
-  Nel processo semplificato, i moderatori **come si eleggono i moderatori e quali sono i loro poteri? (non dichiarati nelllo statuto)** si possono sostituire al Colleggio dei Probiviri ed è ammessa la contumacia.
+  Nel processo semplificato, i moderatori **come si eleggono i moderatori e quali sono i loro poteri? (non dichiarati nello statuto)** si possono sostituire al Collegio dei Probiviri ed è ammessa la contumacia.
 
-17. Ogni sentenza va firmata dal Presidente dell'Associazione. Questi può reinviare la decisione per un periodo massimo di una settimana e solo una volta **Inseririmento di un vicepresidente per fare le sue veci in caso di assenza prolungata**.
-18. I membri del Colleggio devono essere estranei a ogni controversia. In caso di membri direttamente coinvolti a livello individuale la comunità deve eleggere, entro 24 ore, dei membri temporanei il cui mandato dura fino alla fine del dibattimento.
-19. Le decisioni del Colleggio, una volta ratificate, non sono ritrattabili **almeno un appello sarebbe opportuno**.
+17. Ogni sentenza va firmata dal Presidente dell'Associazione. Questi può rinviare la decisione per un periodo massimo di una settimana e solo una volta **Inserimento di un vicepresidente per fare le sue veci in caso di assenza prolungata**.
+18. I membri del Collegio devono essere estranei a ogni controversia. In caso di membri direttamente coinvolti a livello individuale la comunità deve eleggere, entro 24 ore, dei membri temporanei il cui mandato dura fino alla fine del dibattimento.
+19. Le decisioni del Collegio, una volta ratificate, non sono ritrattabili **almeno un appello sarebbe opportuno**.
 ### ORGANIZZAZIONE ESECUTIVA
 
 20. Il Consiglio Direttivo esercita poteri di ordinaria amministrazione, tra cui:

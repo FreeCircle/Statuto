@@ -16,7 +16,6 @@
   Nello specifico gli obiettivi dell’Associazione sono:
   - favorire la diffusione e l'utilizzo consapevole degli strumenti informatici mediante una corretta alfabetizzazione informatica;
   - formare professionalmente ed eticamente i lavoratori della Pubblica Amministrazione al fine di concorrere all'adozione di sistemi informatici liberi, trasparenti, non monopolizzati, mantenibili a lungo termine e sufficientemente documentati, secondo la normativa vigente.
-  - lottare contro ogni tentativo di monopolio pubblico e privato nella gestione e nella distribuzione delle informazioni, consci che il Software Libero trae la sua prima ragione di esistere proprio dalla libertà di accesso alle fonti informative;
   - favorire l'adozione di licenze di tipo libero anche nella pubblicazione di documentazione tecnica, nei testi scolastici, e in tutta la produzione culturale e artistica in genere;
   - permettere l'utilizzo di hardware in disuso o disponibile a basso costo attraverso l'utilizzo di Software Libero, per aiutare chi non può permettersi l'acquisto delle tecnologie più recenti;
   - favorire l'accessibilità del Software Libero mediante lo sviluppo di nuovo Software Libero, la manutenzione di quello esistente e la traduzione in italiano della documentazione e del Software stesso;

@@ -1,4 +1,4 @@
-## Associazione Culturale “GLugSicilia”
+# Associazione Culturale “GLugSicilia”
 
 ## DENOMINAZIONE - SEDE - OGGETTO
 
@@ -29,7 +29,7 @@
   - organizzare dibattiti, conferenze e corsi;
   - raccogliere, archiviare, scambiare documentazione;
   - curare la produzione, la distribuzione e la diffusione di materiale tecnico, culturale e didattico;
-  - organizzare seminari e corsi di qualificazione, formazione e specializzazione, anche in collaborazione con altri enti, istituzioni e altri organismi non profit presenti sul territorio locale e nazionale nonché con le istituzioni scolastiche;
+  - promuovere la cultura attraverso l'organizzazione di seminari e corsi di qualificazione, formazione e specializzazione, anche in collaborazione con altri enti, istituzioni e altri organismi non profit presenti sul territorio locale e nazionale nonché con le istituzioni scolastiche;
   - sviluppare un centro di documentazione tematico nonché altre iniziative volte a perseguire gli scopi sociali;
   - svolgere attività di assistenza, manutenzione di hardware e software;
   - assemblare PC e promuovere il riuso e un corretto smaltimento di hardware e di tutti i componenti del PC.
@@ -79,14 +79,37 @@
 ## ORGANI DELL'ASSOCIAZIONE
 
 12. Gli organi dell'Associazione sono:
+  - Assemblea dei soci
   - Collegio dei Probiviri
   - Consiglio Direttivo
   - Presidente
 
- Non è concesso a un membro del Collegio dei Probiviri di fare parte del Consiglio Direttivo, e viceversa.
+### ASSEMBLEA DEI SOCI
+11. L’Associazione ha il suo organo sovrano nell’Assemblea degli Associati. L’Assemblea viene convocata su delibera del Consiglio Direttivo, almeno con cadenza annuale.
+
+12. All’Assemblea ordinaria spetta la trattazione dei temi posti all’ordine del giorno, e in ogni caso:
+  - l’approvazione del bilancio preventivo e consuntivo;
+  - la nomina e la revoca delle cariche sociali e la fissazione della data per le elezioni;
+  - l’approvazione e la modifica dello Statuto Sociale e dei regolamenti;
+  - la discussione degli indirizzi e l’approvazione delle attività svolte e da svolgere dal Consiglio Direttivo;
+  
+13. L’Assemblea è convocata dal Presidente (**TODO: non si dovrebbe convocare da sè?**) su conforme decisione del Consiglio Direttivo. Il Presidente deve anche convocare Assemblee straordinarie tutte le volte che ne facciano richiesta il consiglio direttivo o un terzo dei soci effettivi.
+La convocazione dell’assemblea avviene per lettera inviata o consegnata a mano o per mail, fax o posta ordinaria, almeno dieci giorni prima della data fissata per l’assemblea.
+
+14. Per la validità delle delibere assembleari sono richiesti, in prima convocazione, la maggioranza assoluta degli associati e il voto favorevole della maggioranza dei presenti; in seconda convocazione l’Assemblea è regolarmente costituita qualunque sia il numero dei presenti.
+Prima e seconda convocazione possono essere fissate nello stesso giorno, ad almeno un’ora di distanza l’una dall’altra, purché ne sia data notizia nell’avviso di convocazione.
+
+15. Ogni socio, sia fondatore sia ordinario, ha un singolo voto.
+Il voto è esercitabile anche mediante delega. La delega può essere conferita solamente ad un altro Socio Effettivo che abbia già diritto di voto. Ciascun delegato non può farsi portatore di più di due deleghe.
+
+16. Le deliberazioni assembleari avvengono con voto palese. Il Consiglio Direttivo, o almeno la metà dei soci, possono proporre all’Assemblea l’assunzione del voto segreto. La proposta deve essere deliberata dall’assemblea degli associati a maggioranza assoluta dei soci votanti.
+
+17. L’Assemblea è presieduta dal Presidente del Consiglio Direttivo o, in caso di sua assenza, da un socio indicato dall’assemblea.
+
+
 ### ORGANIZZAZIONE DELLA GIUSTIZIA
 
-13. Il Collegio dei Probiviri esercita funzioni di amministrazione della giustizia e della risoluzione delle controversie interne, è garante del rispetto dello Statuto e la sua indipendenza dagli altri organi è assoluta. Esso è composto da 5 individui, scelti tra e da:
+18. Il Collegio dei Probiviri esercita funzioni di amministrazione della giustizia e della risoluzione delle controversie interne, è garante del rispetto dello Statuto e la sua indipendenza dagli altri organi è assoluta. Esso è composto da 5 individui, scelti tra e da:
   - soci ordinari che hanno accumulato almeno due anni di permanenza
   - soci fondatori
   Soltanto il Collegio dei Probiviri può decidere per le controversie interne; è abolita la giustizia privata dei singoli soci.
@@ -97,9 +120,9 @@
   - i candidati non devono mai essere stati espulsi temporaneamente dall'Associazione **TODO: dipende da ragioni e tempo dell'espulsione oppure no?**
   - i candidati devono essere partecipanti dell'Associazione da almeno 2 anni.
 
-14. Il mandato dei membri del Collegio è di 1 anno. Una settimana prima della fine del loro mandato dovranno essersi concluse le elezioni dei nuovi membri.
+19. Il mandato dei membri del Collegio è di 1 anno. Una settimana prima della fine del loro mandato dovranno essersi concluse le elezioni dei nuovi membri.
 
-15. Durante un processo ordinario, ogni socio ha diritto:
+20. Durante un processo ordinario, ogni socio ha diritto:
   - alla parità delle parti;
   - alla giusta procedura d'accertamento delle controversie interne;
   - al giusto processo;
@@ -110,7 +133,7 @@
   Ogni socio dichiarato reo dal Collegio dei Probiviri gode dei seguenti diritti:
   - rispetto d'immagine
 
-16. Sono previsti due tipi di processo:
+21. Sono previsti due tipi di processo:
   - processo ordinario;
   - processo semplificato;
   
@@ -119,16 +142,35 @@
   Sono oggetto di processo ordinario tutti gli altri casi.
   Nel processo semplificato, i moderatori **TODO: come si eleggono i moderatori e quali sono i loro poteri? (non dichiarati nello statuto)** le controparti possono indicare dei moderatori tra gli associati come loro portavoce e testimoni.
 
-17. Come ogni delibera, anche l'accertamento delle controverse e la chiusura dei casi con relative decisioni e/o sanzionamenti necessita della firma del Presidente dell'Associazione o di chi è stato delegato a farne le veci pro tempore. Questi può rinviare la decisione per un periodo massimo di una settimana e solo una volta **Inserimento di un vicepresidente per fare le sue veci in caso di assenza prolungata**.
-18. I membri del Collegio devono essere estranei a ogni controversia. In caso di membri direttamente coinvolti a livello individuale la comunità deve eleggere, entro 24 ore, dei membri temporanei il cui mandato durerà fino alla fine del dibattimento.
-Chi compone il Collegio dei Probiviri, non può delegare, ed in caso di giustificata impossibilità a presenziare, verrà temporaneamente sostituito estraendo a sorte tra gli altri Soci estranei alla controversia in atto. 
+22. Come ogni delibera, anche l'accertamento delle controverse e la chiusura dei casi con relative decisioni e/o sanzionamenti necessita della firma del Presidente dell'Associazione o di chi è stato delegato a farne le veci pro tempore. Questi può rinviare la decisione per un periodo massimo di una settimana e solo una volta **Inserimento di un vicepresidente per fare le sue veci in caso di assenza prolungata**.
 
-19. Le decisioni del Collegio, una volta ratificate, non sono ritrattabili, a meno che entro i tre mesi successivi alla ratifica emergano fatti e/o prove legate alla vicenda e/o controversia appena esperita **TODO: prevedere appelli?**.
+23. I membri del Collegio devono rimanere estranei a ogni controversia. In caso di coinvolgimento diretto la comunità deve eleggere, entro 24 ore, dei membri temporanei il cui mandato durerà fino alla fine del dibattimento.
+Chi compone il Collegio dei Probiviri, non può delegare, ed in caso di giustificata impossibilità a presenziare, verrà temporaneamente sostituito estraendo a sorte tra gli altri Soci estranei alla controversia in atto.
+
+24. Le decisioni del Collegio, una volta ratificate, non sono ritrattabili, a meno che entro i tre mesi successivi alla ratifica emergano fatti e/o prove legate alla vicenda e/o controversia appena esperita **TODO: prevedere appelli?**.
 ### ORGANIZZAZIONE ESECUTIVA
 
-20. Il Consiglio Direttivo esercita poteri di ordinaria amministrazione, tra cui:
-- l'organizzazione dei luoghi d'incontro;
-- la gestione dei rendiconti dell'Associazione;
-- l'attuazione, mediante qualunque forma consentita, degli scopi indicati nell'Art 4.
+#### Consiglio Direttivo
+25. L’Associazione è amministrata dal Consiglio Direttivo composto da tre membri (Presidente, Vicepresidente e Segretario) eletti dall’Associazione (**TODO: come?**); per la prima volta la nomina del Consiglio Direttivo viene effettuata nell’atto costitutivo.
+(**TODO: definire la durata di un Consiglio Direttivo**)
+La carica di consigliere è incompatibile con quella di probiviro e viceversa
 
-21. Il Consiglio è composto da: **TODO**
+26. Il Consiglio Direttivo è investito dei più ampi poteri per la gestione dell’Associazione e può compiere tutti gli atti e le operazioni di ordinaria amministrazione che rientrano nell’oggetto sociale, fatta eccezione per quelle che le disposizioni di legge riservano all’**assemblea** e al Collegio dei Probiviri.
+In particolare il Consiglio Direttivo deve:
+  - elaborare la programmazione delle attività culturali e sociali dell’Associazione;
+  - deliberare circa l’ammissione dei soci;
+  - procedere con gli atti indicati dal Collegio dei Probiviri;
+  - curare la gestione di tutti i beni mobili e immobili di proprietà dell’associazione o ad essa affidati;
+  - eseguire le delibere dell’assemblea (**ovvero?**)
+  - predisporre i bilanci preventivi e consuntivi.
+  
+27. Le deliberazioni del Consiglio Direttivo sono prese a maggioranza dei voti dei consiglieri. In caso di parità di voti prevale quello del Presidente.
+
+
+
+#### Presidente
+28. Il Presidente del Consiglio Direttivo dirige l’Associazione e la rappresenta a tutti gli effetti di fronte ai terzi ed in giudizio. Svolge l'incarico di amministratore davanti alla Legge.
+Il Presidente ha la responsabilità generale della conduzione e del buon andamento dell’Associazione. Al Presidente spetta la firma degli atti sociali che impegnino l’associazione sia nei riguardi dei soci che dei terzi.
+Il Presidente sovrintende in particolare all’attuazione delle deliberazioni dell’Assemblea e del consiglio Direttivo.
+Il Presidente, nei casi di urgenza, può esercitare i poteri del consiglio salvo ratifica di questo alla prima riunione.
+(**TODO: prevedere sistemi di votazione**)

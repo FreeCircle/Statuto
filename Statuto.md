@@ -1,8 +1,8 @@
-# Associazione Culturale “GLugSicilia”
+# Associazione Culturale “FreeCircle”
 
 ## DENOMINAZIONE - SEDE - OGGETTO
 
-1. E’ costituita l’Associazione Culturale “GLugSicilia Gruppo Libero” con sede legale in **TODO: decidere una sede**. Il trasferimento di sede sociale non comporta la modifica dello statuto.
+1. E’ costituita l’Associazione Culturale “FreeCircle Gruppo Libero” con sede legale in **TODO: decidere una sede**. Il trasferimento di sede sociale non comporta la modifica dello statuto.
 
 2. L’Associazione è apartitica, aconfessionale, e non ha finalità di lucro. La durata dell’Associazione è illimitata.
 ## DIRITTI FONDAMENTALI

@@ -93,14 +93,14 @@
   - l’approvazione e la modifica dello Statuto Sociale e dei regolamenti;
   - la discussione degli indirizzi e l’approvazione delle attività svolte e da svolgere dal Consiglio Direttivo;
   
-15. L’Assemblea è convocata dal Presidente (**TODO: non si dovrebbe convocare da sè?**) su conforme decisione del Consiglio Direttivo. Il Presidente deve anche convocare Assemblee straordinarie tutte le volte che ne facciano richiesta il consiglio direttivo o un terzo dei soci effettivi.
+15. L’Assemblea è convocata dal Presidente su conforme decisione del Consiglio Direttivo. Il Presidente deve anche convocare Assemblee straordinarie tutte le volte che ne facciano richiesta il consiglio direttivo o almeno il 10 per cento dei Soci Ordinari.
  La convocazione dell’assemblea avviene per lettera inviata o consegnata a mano o per mail, fax o posta ordinaria, almeno dieci giorni prima della data fissata per l’assemblea.
 
 16. Per la validità delle delibere assembleari sono richiesti, in prima convocazione, la maggioranza assoluta degli associati e il voto favorevole della maggioranza dei presenti; in seconda convocazione l’Assemblea è regolarmente costituita qualunque sia il numero dei presenti.
  Prima e seconda convocazione possono essere fissate nello stesso giorno, ad almeno un’ora di distanza l’una dall’altra, purché ne sia data notizia nell’avviso di convocazione.
 
 17. Ogni socio, sia fondatore sia ordinario, ha un singolo voto.
- Il voto è esercitabile anche mediante delega. La delega può essere conferita solamente ad un altro Socio Effettivo che abbia già diritto di voto. Ciascun delegato non può farsi portatore di più di due deleghe.
+ Il voto è esercitabile anche mediante delega. La delega può essere conferita solamente ad un altro Socio Ordinario che abbia già diritto di voto. Ciascun delegato non può farsi portatore di più di due deleghe.
 
 18. Le deliberazioni assembleari avvengono con voto palese. Il Consiglio Direttivo, o almeno la metà dei soci, possono proporre all’Assemblea l’assunzione del voto segreto. La proposta deve essere deliberata dall’assemblea degli associati a maggioranza assoluta dei soci votanti.
 
@@ -115,7 +115,7 @@
   Le fonti del diritto sono quelle indicate nell'Art 3 Comma 1.
   
   Altri vincoli di eleggibilità:
-  - i candidati non devono mai essere stati espulsi temporaneamente dall'Associazione **TODO: dipende da ragioni e tempo dell'espulsione oppure no?**
+  - i candidati non devono mai essere stati espulsi temporaneamente dall'Associazione
   - i candidati devono essere partecipanti dell'Associazione da almeno 2 anni.
 
 21. Il mandato dei membri del Collegio è di 1 anno. Una settimana prima della fine del loro mandato dovranno essersi concluse le elezioni dei nuovi membri.

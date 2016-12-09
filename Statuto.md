@@ -200,6 +200,6 @@ L’eventuale avanzo di gestione deve essere reinvestito nelle attività istituz
 
 37. I soci si impegnano a non aderire in nessun modo a vie legali per le loro eventuali questioni con l' associazione. Tutte le controversie che dovessero insorgere fra associazione e soci o fra soci stessi nell’ambito della vita sociale, saranno sottoposte al giudizio inappellabile del Collegio dei Probiviri o di persona da questa delegata quale arbitro amichevole compositore.
 
-38. L’Associazione, allo scopo di favorire il funzionamento e l’attività dei suoi organi ed il raggiungimento degli obiettivi associativi, può avvalersi di tutte le procedure telematiche per la comunicazione e la condivisione delle informazioni in tempo reale.
+38. L’Associazione, allo scopo di favorire il funzionamento e l’attività dei suoi organi ed il raggiungimento degli obiettivi associativi, può avvalersi di tutte le procedure telematiche per la comunicazione e la condivisione delle informazioni in tempo reale. I regolamenti che specificano l'applicazione dello Statuto in questi mezzi devono essere resi pubblici. La modifica di ciascuno di questi regolamenti può essere svolta dai soli moderatori e amministratori, in modo che il regolamento non contraddica lo Statuto.
 
 39. Per quanto non previsto nel presente statuto valgono le disposizioni del Codice Civile in quanto applicabili.

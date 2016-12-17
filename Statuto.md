@@ -196,6 +196,7 @@ L’Associazione ha l’obbligo, in caso di scioglimento, di devolvere il propri
  - dai beni mobili ed immobili che diverranno di proprietà dell’Associazione;
  - da eventuali fondi di riserva costituiti con le eccedenze di bilancio;
  - da eventuali erogazioni, donazioni e lasciti.
+ 
  Le entrate dell’Associazione sono costituite:
  - dalle quote sociali che saranno fissate dal consiglio direttivo di anno in anno;
  - da contributi di Pubbliche Amministrazioni, Enti Locali, Istituti di Credito e da Enti in genere;
@@ -217,7 +218,5 @@ L’eventuale avanzo di gestione deve essere reinvestito nelle attività istituz
 
 ## DISPOSIZIONI FINALI
 I. La quota associativa annuale è fissata, per il primo anno, nella misura di €. .... e sarà, in seguito, determinata dal Consiglio Direttivo.
-
 II. Nel momento di prima approvazione dell'Atto Costitutivo, sono considerati soci fondatori tutti i soci che hanno firmato il suddetto Atto. Tra questi saranno nominati gli elementi del Consiglio Direttivo.
-
 III. La prima Assemblea deve avvenire il prima possibile, e deve svolgere i compiti indicati precedentemente.

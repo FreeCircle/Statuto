@@ -196,7 +196,7 @@ L’Associazione ha l’obbligo, in caso di scioglimento, di devolvere il propri
  - dai beni mobili ed immobili che diverranno di proprietà dell’Associazione;
  - da eventuali fondi di riserva costituiti con le eccedenze di bilancio;
  - da eventuali erogazioni, donazioni e lasciti.
-Le entrate dell’Associazione sono costituite:
+ Le entrate dell’Associazione sono costituite:
  - dalle quote sociali che saranno fissate dal consiglio direttivo di anno in anno;
  - da contributi di Pubbliche Amministrazioni, Enti Locali, Istituti di Credito e da Enti in genere;
  - dall’utile derivante da manifestazioni o partecipazioni ad esse;

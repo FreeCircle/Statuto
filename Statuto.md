@@ -14,9 +14,8 @@ Infine, crediamo di non essere un'élite o una lobby, pertanto le attività che 
 La durata dell’Associazione è illimitata.
 ## DIRITTI FONDAMENTALI
 
-3. Questo Statuto rispetta e garantisce tutte le norme previste dalla Netiquette, nonché dalla Legge Italiana. I principi fondatori sono: libertà individuale e personale, libera partecipazione e diffusione culturale libera.
-La libertà individuale è qui definita come l'insieme delle libertà proprie e inalienabili di ogni individuo.
-La libertà personale è qui intesa come diritto di poter svolgere i propri scopi senza ostacolo alcuno, purché questi siano dichiaratamente positivi per il benessere generale.
+3. Questo Statuto rispetta e garantisce tutte le norme previste dalla Netiquette, nonché dalla Legge Italiana. I principi fondatori sono: libertà individuale, libera partecipazione e diffusione culturale libera.
+La libertà individuale è qui intesa come diritto di poter svolgere i propri scopi senza ostacolo alcuno, purché questi siano dichiaratamente positivi per il benessere generale.
 La libera partecipazione, garantita nell'Art. 17 Cost., permette a ogni volontario di potersi associare e contribuire nei modi che questi troverà più utili.
 La diffusione culturale libera è incentrata ma non limitata sulla libertà e sui diritti dell'utente in ambito informatico, sul Copyleft, sulla promozione del Software Libero che rispetta i canoni stabiliti dalla Free Software Foundation, sulla divulgazione di materiale didattico, di dilettevole e di formazione in vari campi lavorativi o di ricerca anche non attinenti all'informatica.
 ## SCOPI
@@ -85,46 +84,46 @@ La diffusione culturale libera è incentrata ma non limitata sulla libertà e su
 
 ## ORGANI DELL'ASSOCIAZIONE
 
-12. Gli organi dell'Associazione sono:
+11. Gli organi dell'Associazione sono:
   - Assemblea dei soci
   - Consiglio Direttivo
   - Presidente
   
  ### ASSEMBLEA DEI SOCI
-13. L’Associazione ha il suo organo sovrano nell’Assemblea degli Associati. Essa è il momento fondamentale di confronto, atto ad assicurare una corretta gestione dell’Associazione ed è composta da tutti i soci, ognuno dei quali ha diritto ad un voto, qualunque sia il valore della quota.
+12. L’Associazione ha il suo organo sovrano nell’Assemblea degli Associati. Essa è il momento fondamentale di confronto, atto ad assicurare una corretta gestione dell’Associazione ed è composta da tutti i soci, ognuno dei quali ha diritto ad un voto, qualunque sia il valore della quota.
 Viene convocata su delibera del Consiglio Direttivo, almeno con cadenza annuale. 
 
-14. All’Assemblea ordinaria spetta la trattazione dei temi posti all’ordine del giorno, e in ogni caso:
+13. All’Assemblea ordinaria spetta la trattazione dei temi posti all’ordine del giorno, e in ogni caso:
   - l’approvazione del bilancio preventivo e consuntivo;
   - la nomina e la revoca delle cariche sociali e la fissazione della data per le elezioni;
   - l’approvazione e la modifica dello Statuto Sociale e dei regolamenti;
   - la discussione degli indirizzi e l’approvazione delle attività svolte e da svolgere dal Consiglio Direttivo;
   - richiedere provvedimenti disciplinari al Consiglio Direttivo o contro di esso in caso di eventi particolarmente gravi che hanno attentato l'Associazione.
   
-15. L’Assemblea è convocata dal Presidente su conforme decisione del Consiglio Direttivo. Il Presidente deve anche convocare Assemblee straordinarie tutte le volte che ne facciano richiesta il consiglio direttivo o almeno il 10 per cento dei Soci Ordinari mediante petizione.
+14. L’Assemblea è convocata dal Presidente su conforme decisione del Consiglio Direttivo. Il Presidente deve anche convocare Assemblee straordinarie tutte le volte che ne facciano richiesta il consiglio direttivo o almeno il 10 per cento dei Soci Ordinari mediante petizione.
  La convocazione dell’Assemblea avviene per mail o avviso sul sito web ufficiale, almeno dieci giorni prima della data fissata per l’assemblea.
  Qualora il Presidente ritardi a convocare l'Assemblea, questa si riunirà comunque dopo 10 giorni dal raggiungimento del quorum, nel caso della petizione, o del verbale della votazione del Consiglio Direttivo.
 
-16. Per la validità delle delibere assembleari sono richiesti, in prima convocazione, la maggioranza assoluta degli Associati e il voto favorevole della maggioranza dei presenti; in seconda convocazione l’Assemblea è regolarmente costituita qualunque sia il numero dei presenti.
+15. Per la validità delle delibere assembleari sono richiesti, in prima convocazione, la maggioranza assoluta degli Associati e il voto favorevole della maggioranza dei presenti; in seconda convocazione l’Assemblea è regolarmente costituita qualunque sia il numero dei presenti.
  Prima e seconda convocazione possono essere fissate nello stesso giorno, ad almeno un’ora di distanza l’una dall’altra, purché ne sia data notizia nell’avviso di convocazione.
 
-17. Ogni socio, sia fondatore sia ordinario, ha un singolo voto. In caso di delibera sull'approvazione del bilancio o in merito all'operato del Consiglio Direttivo, nessun consigliere ha voto.
+16. Ogni socio, sia fondatore sia ordinario, ha un singolo voto. In caso di delibera sull'approvazione del bilancio o in merito all'operato del Consiglio Direttivo, nessun consigliere ha voto.
  Il voto è esercitabile anche mediante delega. La delega può essere conferita solamente ad un altro Socio Ordinario che abbia già diritto di voto. Ciascun delegato non può farsi portatore di più di due deleghe.
 
-18. Le deliberazioni assembleari avvengono con voto palese. Il Consiglio Direttivo, o almeno un quinto dei soci, possono proporre all’Assemblea l’assunzione del voto segreto. La proposta deve essere deliberata dall’Assemblea degli Associati a maggioranza assoluta dei soci votanti.
+17. Le deliberazioni assembleari avvengono con voto palese. Il Consiglio Direttivo, o almeno un quinto dei soci, possono proporre all’Assemblea l’assunzione del voto segreto. La proposta deve essere deliberata dall’Assemblea degli Associati a maggioranza assoluta dei soci votanti.
 
-19. L’Assemblea è presieduta dal Presidente o, in caso di sua assenza, dal Vicepresidente, e in caso di assenza di quest'ultimo da un socio nominato dall'Assemblea stessa.
+18. L’Assemblea è presieduta dal Presidente o, in caso di sua assenza, dal Vicepresidente, e in caso di assenza di quest'ultimo da un socio nominato dall'Assemblea stessa.
 
-20. Le delibere di tipo disciplinare richiedono la partecipazione dei soci coinvolti nel caso, i quali dovranno fornire il loro parere con annesse prove della loro versione dei fatti. L'Assemblea può allo stesso modo decidere di revocare i provvedimenti disciplinari. In nessuno dei due casi è ammesso il voto delle persone coinvolte durante le riunioni.
+19. Le delibere di tipo disciplinare richiedono la partecipazione dei soci coinvolti nel caso, i quali dovranno fornire il loro parere con annesse prove della loro versione dei fatti. L'Assemblea può allo stesso modo decidere di revocare i provvedimenti disciplinari. In nessuno dei due casi è ammesso il voto delle persone coinvolte durante le riunioni.
 
 
 ### CONSIGLIO DIRETTIVO
 
-21. L’Associazione è amministrata dal Consiglio Direttivo composto da tre membri (Presidente, Vicepresidente e Segretario) eletti dall’Associazione; per la prima volta la nomina del Consiglio Direttivo viene effettuata nell’atto costitutivo.
+20. L’Associazione è amministrata dal Consiglio Direttivo composto da tre membri (Presidente, Vicepresidente e Segretario) eletti dall’Associazione; per la prima volta la nomina del Consiglio Direttivo viene effettuata nell’atto costitutivo.
  Il Consiglio rimane in carica tre anni ed è rieleggibile.
  La carica di consigliere è incompatibile con qualsiasi altra carica.
 
-22. Il Consiglio Direttivo è investito dei più ampi poteri per la gestione dell’Associazione e può compiere tutti gli atti e le operazioni di ordinaria amministrazione che rientrano nell’oggetto sociale, fatta eccezione per quelle che le disposizioni di legge riservano all’Assemblea e al Collegio dei Probiviri.
+21. Il Consiglio Direttivo è investito dei più ampi poteri per la gestione dell’Associazione e può compiere tutti gli atti e le operazioni di ordinaria amministrazione che rientrano nell’oggetto sociale, fatta eccezione per quelle che le disposizioni di legge riservano all’Assemblea e al Collegio dei Probiviri.
  In particolare il Consiglio Direttivo deve:
   - elaborare la programmazione delle attività culturali e sociali dell’Associazione;
   - deliberare circa l’ammissione dei soci;
@@ -134,24 +133,24 @@ Viene convocata su delibera del Consiglio Direttivo, almeno con cadenza annuale.
   - predisporre i bilanci preventivi e consuntivi.
 
 
-23. Il Consiglio Direttivo tiene il rendiconto del versamento della quota minima nel Libro dei Soci. Dopo 60 giorni di ritardo del versamento il socio riceverà dal Consiglio l'ingiunzione di pagarla entro 30 giorni pena l'esclusione dalla vita associativa. È ammesso il ricorso all'Assemblea dei Soci.
+22. Il Consiglio Direttivo tiene il rendiconto del versamento della quota minima nel Libro dei Soci. Dopo 60 giorni di ritardo del versamento il socio riceverà dal Consiglio l'ingiunzione di pagarla entro 30 giorni pena l'esclusione dalla vita associativa. È ammesso il ricorso all'Assemblea dei Soci.
 
-24. L'ammissione dei soci non può essere negata a meno di fatti particolarmente gravi che à minacciare la stabilità e il benessere generale dell'Associazione. Nel caso la richiesta sia stata avanzata da persone escluse dalla vita associativa per mancato rinnovo della quota, la quota minima richiesta sarà doppia.
+23. L'ammissione dei soci non può essere negata a meno di fatti particolarmente gravi che minaccino o abbiano minacciato la stabilità e il benessere generale dell'Associazione. Nel caso la richiesta sia stata avanzata da persone escluse dalla vita associativa per mancato rinnovo della quota, la quota minima richiesta sarà doppia.
 
 #### Presidente
 
-25. Il Presidente dirige l’Associazione e la rappresenta a tutti gli effetti di fronte ai terzi ed in giudizio. Svolge l'incarico di amministratore davanti alla Legge.
+24. Il Presidente dirige l’Associazione e la rappresenta a tutti gli effetti di fronte ai terzi ed in giudizio. Svolge l'incarico di amministratore davanti alla Legge.
  Il Presidente ha la responsabilità generale della conduzione e del buon andamento dell’Associazione. Al Presidente spetta la firma degli atti sociali che impegnino l’Associazione sia nei riguardi dei soci che dei terzi.
  Il Presidente sovrintende in particolare all’attuazione delle deliberazioni dell’Assemblea e del consiglio Direttivo.
  Il Presidente, nei casi di urgenza, può esercitare i poteri del Consiglio salvo ratifica di questo alla prima riunione.
 ### Delibere speciali
-26. L’Atto Costitutivo e lo Statuto possono essere modificati, su proposta del Consiglio Direttivo o del 10 per cento dei soci, dall’Assemblea composta da almeno tre quarti dei soci. Le bozze sono stese dai soci fondatori. L'approvazione avviene per voto segreto.
+25. L’Atto Costitutivo e lo Statuto possono essere modificati, su proposta del Consiglio Direttivo o del 10 per cento dei soci, dall’Assemblea composta da almeno tre quarti dei soci. Le bozze sono stese dai soci fondatori. L'approvazione avviene per voto segreto.
 
-27. Lo scioglimento dell’Associazione deve essere deliberato dall’Assemblea con il voto favorevole della maggioranza assoluta dei soci incluso il voto favorevole dei due terzi dei soci fondatori.
+26. Lo scioglimento dell’Associazione deve essere deliberato dall’Assemblea con il voto favorevole della maggioranza assoluta dei soci incluso il voto favorevole dei due terzi dei soci fondatori.
 L’Associazione ha l’obbligo, in caso di scioglimento, di devolvere il proprio patrimonio ad altra Associazione con finalità analoghe o con fini di pubblica utilità, sentito l’organismo di controllo di cui all’art. 3 della legge 23 dicembre 1996 n.662, e salvo diversa destinazione imposta dalla legge.
 ## PATRIMONIO SOCIALE
 
-28. Il patrimonio è costituito:
+27. Il patrimonio è costituito:
  - dai beni mobili ed immobili che diverranno di proprietà dell’Associazione;
  - da eventuali fondi di riserva costituiti con le eccedenze di bilancio;
  - da eventuali erogazioni, donazioni e lasciti.
@@ -163,19 +162,17 @@ L’Associazione ha l’obbligo, in caso di scioglimento, di devolvere il propri
  - svolgere attività commerciale di rilievo marginale;
  - da ogni altra entrata che concorra ad incrementare l’attivo sociale.
 
-29. l’Associazione non può distribuire, anche in modo indiretto, utili o avanzi di gestione nonché fondi, riserve o capitale durante la vita della stessa, salvo che la destinazione o la distribuzione non siano imposte dalla legge.
+28. l’Associazione non può distribuire, anche in modo indiretto, utili o avanzi di gestione nonché fondi, riserve o capitale durante la vita della stessa, salvo che la destinazione o la distribuzione non siano imposte dalla legge.
 L’eventuale avanzo di gestione deve essere reinvestito nelle attività istituzionali dell’Associazione.
 ## ALTRE DISPOSIZIONI
 
-30. L’esercizio finanziario si chiude il 31 Dicembre di ogni anno. Entro novanta giorni dalla fine di ogni esercizio verranno predisposti dal Consiglio Direttivo il bilancio consuntivo e quello preventivo del successivo esercizio.
+29. L’esercizio finanziario si chiude il 31 Dicembre di ogni anno. Entro novanta giorni dalla fine di ogni esercizio verranno predisposti dal Consiglio Direttivo il bilancio consuntivo e quello preventivo del successivo esercizio.
 
-31. L’Associazione, allo scopo di favorire il funzionamento e l’attività dei suoi organi ed il raggiungimento degli obiettivi associativi, può avvalersi di tutte le procedure telematiche per la comunicazione e la condivisione delle informazioni in tempo reale. I regolamenti che specificano l'applicazione dello Statuto in questi mezzi devono essere resi pubblici. La modifica di ciascuno di questi regolamenti può essere svolta dai soli moderatori e amministratori, in modo che il regolamento non contraddica lo Statuto.
+30. L’Associazione, allo scopo di favorire il funzionamento e l’attività dei suoi organi ed il raggiungimento degli obiettivi associativi, può avvalersi di tutte le procedure telematiche per la comunicazione e la condivisione delle informazioni in tempo reale. I regolamenti che specificano l'applicazione dello Statuto in questi mezzi devono essere resi pubblici. La modifica di ciascuno di questi regolamenti può essere svolta dai soli moderatori e amministratori, in modo che il regolamento non contraddica lo Statuto.
 
-32. Per tutto quanto non previsto in tale Statuto valgono le norme in materia del Codice Civile.
+31. Per tutto quanto non previsto in tale Statuto valgono le norme in materia del Codice Civile.
 
 ## DISPOSIZIONI FINALI
-I. La quota associativa annuale è fissata, per il primo anno, nella misura di €. .... e sarà, in seguito, determinata dal Consiglio Direttivo.
+I. Nel momento di prima approvazione dell'Atto Costitutivo, sono considerati soci fondatori tutti i soci che hanno firmato il suddetto Atto. Tra questi saranno nominati gli elementi del Consiglio Direttivo.
 
-II. Nel momento di prima approvazione dell'Atto Costitutivo, sono considerati soci fondatori tutti i soci che hanno firmato il suddetto Atto. Tra questi saranno nominati gli elementi del Consiglio Direttivo.
-
-III. La prima Assemblea deve avvenire il prima possibile, e deve svolgere i compiti indicati precedentemente.
+II. La prima Assemblea deve avvenire il prima possibile, e deve svolgere i compiti indicati precedentemente.
